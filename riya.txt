@@ -1,0 +1,55 @@
+GET /ttj?id=1406719 HTTP/1.1
+Host: ib.adnxs.com
+//nama web
+
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:13.0) Gecko/20100101 Firefox/13.0
+//tipe mozilla & versi windows
+
+Accept: */*
+//ppeneriman sever dari html
+
+Accept-Language: en-us,en;q=0.5
+//meneria saver dr html
+
+Accept-Encoding: gzip, deflate
+//peneriaan pengkodean gzip,deflate
+
+Connection: keep-alive
+//sembungan terhuubung
+
+Referer: http://search.babylon.com/?affID=116987&tt=5112_2&babsrc=HP_ss&mntrId=ccab8287000000000000000000000000
+//
+
+Cookie: uuid2=669657927914255088; icu=ChII4cMMEAoYASABKAEwwqGMkgUQwqGMkgUYAA..; anj=Kfu=8fG6kNcvjr/?0P(*AuB(+Z89Iz(<7.BTWMxmCnq%y>0l%!SJZFe2!/8<hL'c/K=!DvDqyz/w:#N5$6N0nR2SH0@F<=5v2/.(Mh*b>3eVYXO[oJTf4w$F^DR4UAqH<naM?2BSw9x!N7Xg%Lr2Mm; sess=1
+//rangkaian text yang disimpan pada komputer
+
+HTTP/1.1 200 OK
+
+
+Date: Sun, 29 Sep 2013 15:34:22 GMT
+//tanggal
+
+cache-Control: no-store, no-cache, private
+//pengontrol cache
+
+Pragma: no-cache
+
+
+Expires: Sat, 15 Nov 2008 16:00:00 GMT
+//tanggal terahir di buka
+
+P3P: policyref="http://cdn.adnxs.com/w3c/policy/p3p.xml", CP="NOI DSP COR ADM PSAo PSDo OURo SAMo UNRo OTRo BUS COM NAV DEM STA PRE"
+
+
+X-XSS-Protection: 0
+
+
+Set-Cookie: uuid2=669657927914255088; path=/; expires=Sat, 28-Dec-2013 15:34:22 GMT; domain=.adnxs.com; HttpOnly
+
+
+Set-Cookie: sess=1; path=/; expires=Mon, 30-Sep-2013 15:34:22 GMT; domain=.adnxs.com; HttpOnly
+Content-Length: 0
+//panjang konten halaman web
+
+Content-Type: text/html; charset=ISO-8859-1
+Via: 1.0 J5K-1 (jaguar/3.0-11)
